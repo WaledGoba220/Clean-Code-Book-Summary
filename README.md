@@ -1,0 +1,2 @@
+# Clean-Code-Book-Summary
+Clean Code Book Summary, clean code is attributed to software engineer Robert Cecil Martin, who used it in his book Clean Code: Refactoring, Patterns, Testing and Techniques for Clean Code to refer to clean code . However, its principles are much older and do not come from the field of programming. We explain what the clean code consists of , what its advantages are and how to develop it..
